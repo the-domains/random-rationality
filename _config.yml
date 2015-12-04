@@ -1,0 +1,28 @@
+name: Random Rationality
+favicon: null
+layout_spectrum: 0.7196181286126375
+typography_spectrum: 0.35059277387335896
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.45748401060700417
+  lightness: 0.5156833685468882
+  saturation: 0.9796557151712477
+  rhythmicContrast: 0.19275467237457633
+purpose: []
